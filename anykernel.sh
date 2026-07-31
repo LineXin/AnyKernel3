@@ -11,8 +11,6 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=merlin
-device.name2=lancelot
-device.name3=selene
 supported.versions=
 supported.patchlevels=
 '; } # end properties
